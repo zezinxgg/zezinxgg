@@ -3,7 +3,7 @@
  ___ ___["]_____ ___ ___  {16#years}
 |_ -| . ["]     | .'| . |
 |___|_  [,]_|_|_|__,|  _|
-      |_|V...       |_|   https://github.com/zezinxgg
+      |_|V...       |_|   github.com/zezinxgg
 
 ### Skills
 
