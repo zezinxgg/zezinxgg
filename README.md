@@ -13,5 +13,5 @@
 
 ### Music types
 ![deftones](https://external-media.spacehey.net/media/sJMw7gnXLJaV1XTuCh-B7YbrAqPH6RcmVn5ONAMGpM7I=/https://64.media.tumblr.com/6d12a2374206fe6e8fde0798e3e32894/b4a8996229d50d4f-94/s250x400/3acc1cd69506129cb3b230f1a2d5765969d5869c.gifv)
-
+![thecure](https://external-media.spacehey.net/media/sKJhDrgmw2OW1m-YBI3BsuSxi8yz5cxljepK86k60sVQ=/https://64.media.tumblr.com/a1f97e46974400965ba58cf4eda4d584/72e2590fb9e2f26c-6a/s250x400/b8885434e1275144f85567404fd2f66debfcf77e.gifv)
 
