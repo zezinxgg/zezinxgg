@@ -10,5 +10,6 @@
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![deftones](https://external-media.spacehey.net/media/sJMw7gnXLJaV1XTuCh-B7YbrAqPH6RcmVn5ONAMGpM7I=/https://64.media.tumblr.com/6d12a2374206fe6e8fde0798e3e32894/b4a8996229d50d4f-94/s250x400/3acc1cd69506129cb3b230f1a2d5765969d5869c.gifv)
 
 
